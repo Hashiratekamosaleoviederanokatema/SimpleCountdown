@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://hashiratekamosaleoviederanokatema.github.io/SimpleCountdown/sitemap.xml
